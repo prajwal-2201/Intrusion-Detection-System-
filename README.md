@@ -122,5 +122,5 @@ Built a Network Intrusion Detection System using Suricata to detect port scannin
 ---
 
 ## 👤 Author
-Prajwal V
+**Prajwal V**
 Cybersecurity Enthusiast | Network Security | IDS/Threat Detection
